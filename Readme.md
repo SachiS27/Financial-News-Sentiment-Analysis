@@ -40,3 +40,14 @@ Model Evaluation
 
 Week 3: Transformers & FinBERT 
 Use transformer-based deep learning to further improve sentiment analysis.
+
+Transformer Basics & FinBERT:
+Loaded a pre-trained FinBERT model from Hugging Face.
+Performed zero-shot sentiment analysis (no training on our dataset).
+
+Fine-tuning FinBERT on Financial PhraseBank:
+Fine-tuned FinBERT on the processed Financial PhraseBank dataset
+Used transfer learning to adapt the model to our specific data
+Implemented training using Hugging Face’s Trainer API
+Evaluated performance on a validation set
+
