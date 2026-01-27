@@ -56,3 +56,28 @@ Used transfer learning to adapt the model to our specific data ,
 Implemented training using Hugging Face’s Trainer API ,
 Evaluated performance on a validation set ,
 
+Week 4: Sentiment vs Stock Prices
+
+Validate sentiment models on real financial news and market data
+
+Real-time stock price pipeline using yfinance
+
+Financial news dataset ingestion and preprocessing (Kaggle)
+
+Sentiment scoring of real news using:
+
+VADER,
+Logistic Regression,
+FinBERT
+
+Week 5: Sentiment-Driven Trading & Backtesting
+
+Custom backtesting engine for historical evaluation
+
+Comparative analysis of:
+
+VADER-based strategy
+
+Logistic Regression-based strategy
+
+FinBERT-based strategy
