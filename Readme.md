@@ -6,6 +6,7 @@ This project builds a financial news sentiment analysis system step by step.
 
 The goal is to classify financial news text into Positive, Negative, or Neutral sentiment.
 
+
 Week 1: NLP Fundamentals & Lexicon-Based Sentiment Analysis
 
 In Week 1, a rule-based sentiment analysis system was built.
@@ -25,6 +26,7 @@ Model evaluation using:
 Accuracy,
 Precision, Recall, F1-score
 Confusion Matrix
+
 
 Week 2: Supervised Machine Learning
 
@@ -48,6 +50,7 @@ TF-IDF features performed better than Bag-of-Words due to better handling of imp
 
 Logistic Regression achieved the best overall balance between accuracy and F1-score among ML models.
 
+
 Week 3: Transformers & FinBERT 
 
 Use transformer-based deep learning to further improve sentiment analysis.
@@ -66,6 +69,7 @@ Evaluated performance on a validation set ,
 
 FinBERT handled financial context, negation, and subtle sentiment cues better than lexicon and ML models.
 
+
 Week 4: Sentiment vs Stock Prices
 
 Validate sentiment models on real financial news and market data
@@ -80,6 +84,7 @@ VADER,
 Logistic Regression,
 FinBERT
 
+
 Week 5: Sentiment-Driven Trading & Backtesting
 
 Custom backtesting engine for historical evaluation
@@ -90,7 +95,6 @@ VADER-based strategy
 
 Logistic Regression-based strategy
 
-FinBERT-based strategy
 ----------------------------------------------------------------
 Overall :
 
